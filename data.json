@@ -1,0 +1,1573 @@
+{
+  "benefitItems": [
+    {
+      "name": "Individual Deductible",
+      "type": 1,
+      "valueTypes": [
+        3
+      ],
+      "values": [
+        {
+          "tier": 2,
+          "id": 3307475,
+          "benefitItemId": 2512506,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "",
+          "value": "13800",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:21.008184+00:00"
+        },
+        {
+          "tier": 1,
+          "id": 3307827,
+          "benefitItemId": 2512506,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "",
+          "value": "6900",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:21.085002+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Family Deductible",
+      "type": 2,
+      "valueTypes": [
+        3
+      ],
+      "values": [
+        {
+          "tier": 2,
+          "id": 3307557,
+          "benefitItemId": 2512569,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "",
+          "value": "27600",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:21.888969+00:00"
+        },
+        {
+          "tier": 1,
+          "id": 3307924,
+          "benefitItemId": 2512569,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "",
+          "value": "13800",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:21.995257+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Individual Out-of-Pocket Max",
+      "type": 3,
+      "valueTypes": [
+        3
+      ],
+      "values": [
+        {
+          "tier": 1,
+          "id": 3307560,
+          "benefitItemId": 2512573,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "",
+          "value": "6900",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:22.178755+00:00"
+        },
+        {
+          "tier": 2,
+          "id": 3307930,
+          "benefitItemId": 2512573,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "",
+          "value": "13800",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:22.104382+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Family Out-of-Pocket Max",
+      "type": 4,
+      "valueTypes": [
+        3
+      ],
+      "values": [
+        {
+          "tier": 1,
+          "id": 3307651,
+          "benefitItemId": 2512385,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "",
+          "value": "13800",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:18.624947+00:00"
+        },
+        {
+          "tier": 2,
+          "id": 3307373,
+          "benefitItemId": 2512385,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "",
+          "value": "27600",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:18.548501+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Coinsurance (Policy Holder Portion)",
+      "type": 5,
+      "valueTypes": [
+        4
+      ],
+      "values": [
+        {
+          "tier": 2,
+          "id": 3307656,
+          "benefitItemId": 2512371,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 4,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:18.380694+00:00"
+        },
+        {
+          "tier": 1,
+          "id": 3307357,
+          "benefitItemId": 2512371,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 4,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:18.469083+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Primary Care/Office",
+      "type": 8,
+      "valueTypes": [
+        3,
+        4
+      ],
+      "values": [
+        {
+          "tier": 1,
+          "id": 3307365,
+          "benefitItemId": 2512341,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:18.229301+00:00"
+        },
+        {
+          "tier": 2,
+          "id": 3307330,
+          "benefitItemId": 2512341,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:18.142608+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Specialist Care",
+      "type": 9,
+      "valueTypes": [
+        3,
+        4
+      ],
+      "values": [
+        {
+          "tier": 1,
+          "id": 3307646,
+          "benefitItemId": 2512629,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:23.028444+00:00"
+        },
+        {
+          "tier": 2,
+          "id": 3307802,
+          "benefitItemId": 2512629,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:22.946041+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Preventative Care",
+      "type": 10,
+      "valueTypes": [
+        3,
+        4
+      ],
+      "values": [
+        {
+          "tier": 1,
+          "id": 3307873,
+          "benefitItemId": 2512700,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 6,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "",
+          "value": "No Charge",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:24.031089+00:00"
+        },
+        {
+          "tier": 2,
+          "id": 3307820,
+          "benefitItemId": 2512700,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:23.955975+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Skilled Nursing Facility",
+      "type": 11,
+      "valueTypes": [
+        3,
+        4
+      ],
+      "values": [
+        {
+          "tier": 1,
+          "id": 3307379,
+          "benefitItemId": 2512390,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 6,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "",
+          "value": "$0 After Ded.",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:18.798489+00:00"
+        },
+        {
+          "tier": 2,
+          "id": 3307888,
+          "benefitItemId": 2512390,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 6,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "",
+          "value": "$0 After Ded.",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:18.717728+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Home Health Care",
+      "type": 102,
+      "valueTypes": [
+        3,
+        4
+      ],
+      "values": [
+        {
+          "tier": 1,
+          "id": 3307506,
+          "benefitItemId": 2512495,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:20.930894+00:00"
+        },
+        {
+          "tier": 2,
+          "id": 3307463,
+          "benefitItemId": 2512495,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:20.835031+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Diagnostics",
+      "type": 18,
+      "valueTypes": [
+        3,
+        4
+      ],
+      "values": [
+        {
+          "tier": 1,
+          "id": 3307709,
+          "benefitItemId": 2512650,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:23.372351+00:00"
+        },
+        {
+          "tier": 2,
+          "id": 3307693,
+          "benefitItemId": 2512650,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:23.293367+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Lab",
+      "type": 721,
+      "valueTypes": [
+        6
+      ],
+      "values": [
+        {
+          "tier": 1,
+          "id": 4244942,
+          "benefitItemId": 3062403,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:17.343916+00:00"
+        },
+        {
+          "tier": 2,
+          "id": 4244938,
+          "benefitItemId": 3062403,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:17.26184+00:00"
+        }
+      ]
+    },
+    {
+      "name": "X-Ray",
+      "type": 19,
+      "valueTypes": [
+        3,
+        4
+      ],
+      "values": [
+        {
+          "tier": 1,
+          "id": 4244966,
+          "benefitItemId": 3062407,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:18.064224+00:00"
+        },
+        {
+          "tier": 2,
+          "id": 4244963,
+          "benefitItemId": 3062407,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:17.988345+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Imaging",
+      "type": 20,
+      "valueTypes": [
+        3,
+        4
+      ],
+      "values": [
+        {
+          "tier": 1,
+          "id": 4244933,
+          "benefitItemId": 3062402,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:17.190489+00:00"
+        },
+        {
+          "tier": 2,
+          "id": 4244928,
+          "benefitItemId": 3062402,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:17.114641+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Emergency Room",
+      "type": 22,
+      "valueTypes": [
+        3,
+        4
+      ],
+      "values": [
+        {
+          "tier": 1,
+          "id": 3307390,
+          "benefitItemId": 2512410,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 6,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "",
+          "value": "$250/visit plus plan\u00A0Ded.",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:18.972294+00:00"
+        },
+        {
+          "tier": 2,
+          "id": 3307907,
+          "benefitItemId": 2512410,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 6,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "",
+          "value": "$250/visit plus plan\u00A0Ded.",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:18.894368+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Urgent Care",
+      "type": 23,
+      "valueTypes": [
+        3,
+        4
+      ],
+      "values": [
+        {
+          "tier": 1,
+          "id": 3307627,
+          "benefitItemId": 2512525,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:21.42227+00:00"
+        },
+        {
+          "tier": 2,
+          "id": 3307497,
+          "benefitItemId": 2512525,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:21.336844+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Durable Medical Equipment (DME)",
+      "type": 25,
+      "valueTypes": [
+        3,
+        4
+      ],
+      "values": [
+        {
+          "tier": 2,
+          "id": 3307465,
+          "benefitItemId": 2512487,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:20.668827+00:00"
+        },
+        {
+          "tier": 1,
+          "id": 3307445,
+          "benefitItemId": 2512487,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:20.744934+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Annual RX Deductible Individual",
+      "type": 30,
+      "valueTypes": [
+        3
+      ],
+      "values": [
+        {
+          "tier": 1,
+          "id": 3307915,
+          "benefitItemId": 2512707,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 6,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "",
+          "value": "None",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:24.203041+00:00"
+        },
+        {
+          "tier": 2,
+          "id": 3307835,
+          "benefitItemId": 2512707,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 6,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "",
+          "value": "None",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:24.122858+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Rx - Tier 1 Retail",
+      "type": 32,
+      "valueTypes": [
+        3,
+        4
+      ],
+      "values": [
+        {
+          "tier": 2,
+          "id": 3307854,
+          "benefitItemId": 2512714,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 6,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "",
+          "value": "",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:24.285417+00:00"
+        },
+        {
+          "tier": 1,
+          "id": 3307842,
+          "benefitItemId": 2512714,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:24.36287+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Rx - Tier 2 Retail",
+      "type": 34,
+      "valueTypes": [
+        3,
+        4
+      ],
+      "values": [
+        {
+          "tier": 2,
+          "id": 3307667,
+          "benefitItemId": 2512638,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 6,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "",
+          "value": "",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:23.12833+00:00"
+        },
+        {
+          "tier": 1,
+          "id": 3307746,
+          "benefitItemId": 2512638,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:23.210665+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Rx - Tier 3 Retail",
+      "type": 36,
+      "valueTypes": [
+        3,
+        4
+      ],
+      "values": [
+        {
+          "tier": 1,
+          "id": 3307574,
+          "benefitItemId": 2512581,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:22.356275+00:00"
+        },
+        {
+          "tier": 2,
+          "id": 3307808,
+          "benefitItemId": 2512581,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 6,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "",
+          "value": "",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:22.28443+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Rx - Tier 4 Retail",
+      "type": 38,
+      "valueTypes": [
+        3,
+        4
+      ],
+      "values": [
+        {
+          "tier": 2,
+          "id": 3307598,
+          "benefitItemId": 2512542,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 6,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "",
+          "value": "",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:21.513447+00:00"
+        },
+        {
+          "tier": 1,
+          "id": 3307524,
+          "benefitItemId": 2512542,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:21.607233+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Rx - Tier 5 Retail",
+      "type": 40,
+      "valueTypes": [
+        3,
+        4
+      ],
+      "values": [
+        {
+          "tier": 2,
+          "id": 3307593,
+          "benefitItemId": 2512590,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 6,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "",
+          "value": "",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:22.434455+00:00"
+        },
+        {
+          "tier": 1,
+          "id": 3307589,
+          "benefitItemId": 2512590,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:22.521721+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Rx - Tier 6 Retail",
+      "type": 42,
+      "valueTypes": [
+        3,
+        4
+      ],
+      "values": [
+        {
+          "tier": 1,
+          "id": 3307862,
+          "benefitItemId": 2512720,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 6,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "",
+          "value": "$0 After Ded.",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:24.519352+00:00"
+        },
+        {
+          "tier": 2,
+          "id": 3307850,
+          "benefitItemId": 2512720,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 6,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "",
+          "value": "$0 After Ded. / $0 After Ded. / $0 After Ded. / $0 After Ded. / $0 After Ded. / $0 After Ded.",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:24.442406+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Hospital Outpatient Surgery Physician Fee",
+      "type": 670,
+      "valueTypes": [
+        3,
+        4
+      ],
+      "values": [
+        {
+          "tier": 1,
+          "id": 3307785,
+          "benefitItemId": 2512670,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:23.687306+00:00"
+        },
+        {
+          "tier": 2,
+          "id": 3307735,
+          "benefitItemId": 2512670,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:23.614702+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Hospital Outpatient Surgery Facility Fee",
+      "type": 671,
+      "valueTypes": [
+        3,
+        4
+      ],
+      "values": [
+        {
+          "tier": 2,
+          "id": 3307528,
+          "benefitItemId": 2512518,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:21.168212+00:00"
+        },
+        {
+          "tier": 1,
+          "id": 3307490,
+          "benefitItemId": 2512518,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 6,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "",
+          "value": "$125/visit plus plan\u00A0Ded.",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:21.251525+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Hospital Inpatient Physician Fee",
+      "type": 673,
+      "valueTypes": [
+        3,
+        4
+      ],
+      "values": [
+        {
+          "tier": 2,
+          "id": 3307539,
+          "benefitItemId": 2512440,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:19.228258+00:00"
+        },
+        {
+          "tier": 1,
+          "id": 3307410,
+          "benefitItemId": 2512440,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:19.310156+00:00"
+        }
+      ]
+    },
+    {
+      "name": "Hospital Inpatient Facility Fee",
+      "type": 674,
+      "valueTypes": [
+        3,
+        4
+      ],
+      "values": [
+        {
+          "tier": 1,
+          "id": 4244923,
+          "benefitItemId": 3062401,
+          "planTypeBenefitItemTierId": 132217,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:17.040815+00:00"
+        },
+        {
+          "tier": 2,
+          "id": 4244918,
+          "benefitItemId": 3062401,
+          "planTypeBenefitItemTierId": 132207,
+          "planId": 64879,
+          "benefitItemValueTypeId": 3,
+          "effectiveDate": "2022-01-01T00:00:00+00:00",
+          "customText": "After Ded.",
+          "value": "0",
+          "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+          "updatedDateTime": "2021-12-29T16:40:16.957408+00:00"
+        }
+      ]
+    }
+  ],
+  "planAttributes": [
+    {
+      "planType": "Medical",
+      "name": "Metallic Level",
+      "id": 153910,
+      "planId": 64879,
+      "planTypeAttributeId": 138,
+      "value": "Bronze",
+      "updatedUserId": "2f5e9960-001e-4fcd-857f-8177e78e3697",
+      "updatedDateTime": "2021-10-21T15:41:08.5525558-05:00"
+    },
+    {
+      "planType": "Medical",
+      "name": "Network Name",
+      "id": 153918,
+      "planId": 64879,
+      "planTypeAttributeId": 136,
+      "value": "Blue PPO",
+      "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+      "updatedDateTime": "2021-12-29T16:40:10.656087+00:00"
+    },
+    {
+      "planType": "Medical",
+      "name": "Insurance Type",
+      "id": 185921,
+      "planId": 64879,
+      "planTypeAttributeId": 137,
+      "value": "HSA",
+      "updatedUserId": "ffffffff-adbc-ffff-bbbb-ffffaaafffff",
+      "updatedDateTime": "2020-07-23T01:40:27.05+00:00"
+    }
+  ],
+  "benefitItemTiers": [
+    {
+      "id": 1,
+      "name": "In-network",
+      "sortOrder": 1
+    },
+    {
+      "id": 2,
+      "name": "Out-of-network",
+      "sortOrder": 2
+    }
+  ],
+  "compositeRates": [
+    {
+      "rate": 444.6200,
+      "rateAttributes": [
+        "Tier",
+        "Employee"
+      ]
+    },
+    {
+      "rate": 889.2400,
+      "rateAttributes": [
+        "Tier",
+        "EmployeeSpouse"
+      ]
+    },
+    {
+      "rate": 822.5470,
+      "rateAttributes": [
+        "Tier",
+        "EmployeeChild"
+      ]
+    },
+    {
+      "rate": 1267.1670,
+      "rateAttributes": [
+        "Tier",
+        "Family"
+      ]
+    }
+  ],
+  "ageBandedRates": [
+    {
+      "rate": 402.0300,
+      "rateAttributes": [
+        "AgeBanded",
+        "27"
+      ]
+    },
+    {
+      "rate": 468.7800,
+      "rateAttributes": [
+        "AgeBanded",
+        "35"
+      ]
+    },
+    {
+      "rate": 465.7100,
+      "rateAttributes": [
+        "AgeBanded",
+        "34"
+      ]
+    },
+    {
+      "rate": 654.4600,
+      "rateAttributes": [
+        "AgeBanded",
+        "49"
+      ]
+    },
+    {
+      "rate": 293.4700,
+      "rateAttributes": [
+        "AgeBanded",
+        "2"
+      ]
+    },
+    {
+      "rate": 293.4700,
+      "rateAttributes": [
+        "AgeBanded",
+        "1"
+      ]
+    },
+    {
+      "rate": 383.6200,
+      "rateAttributes": [
+        "AgeBanded",
+        "23"
+      ]
+    },
+    {
+      "rate": 429.2700,
+      "rateAttributes": [
+        "AgeBanded",
+        "29"
+      ]
+    },
+    {
+      "rate": 977.4600,
+      "rateAttributes": [
+        "AgeBanded",
+        "58"
+      ]
+    },
+    {
+      "rate": 293.4700,
+      "rateAttributes": [
+        "AgeBanded",
+        "3"
+      ]
+    },
+    {
+      "rate": 372.1100,
+      "rateAttributes": [
+        "AgeBanded",
+        "20"
+      ]
+    },
+    {
+      "rate": 748.8300,
+      "rateAttributes": [
+        "AgeBanded",
+        "52"
+      ]
+    },
+    {
+      "rate": 575.4300,
+      "rateAttributes": [
+        "AgeBanded",
+        "46"
+      ]
+    },
+    {
+      "rate": 1150.8600,
+      "rateAttributes": [
+        "AgeBanded",
+        "64"
+      ]
+    },
+    {
+      "rate": 855.4700,
+      "rateAttributes": [
+        "AgeBanded",
+        "55"
+      ]
+    },
+    {
+      "rate": 293.4700,
+      "rateAttributes": [
+        "AgeBanded",
+        "11"
+      ]
+    },
+    {
+      "rate": 819.0300,
+      "rateAttributes": [
+        "AgeBanded",
+        "54"
+      ]
+    },
+    {
+      "rate": 627.2200,
+      "rateAttributes": [
+        "AgeBanded",
+        "48"
+      ]
+    },
+    {
+      "rate": 385.1500,
+      "rateAttributes": [
+        "AgeBanded",
+        "25"
+      ]
+    },
+    {
+      "rate": 383.6200,
+      "rateAttributes": [
+        "AgeBanded",
+        "24"
+      ]
+    },
+    {
+      "rate": 293.4700,
+      "rateAttributes": [
+        "AgeBanded",
+        "10"
+      ]
+    },
+    {
+      "rate": 339.5000,
+      "rateAttributes": [
+        "AgeBanded",
+        "17"
+      ]
+    },
+    {
+      "rate": 934.8800,
+      "rateAttributes": [
+        "AgeBanded",
+        "57"
+      ]
+    },
+    {
+      "rate": 1150.8600,
+      "rateAttributes": [
+        "AgeBanded",
+        "65"
+      ]
+    },
+    {
+      "rate": 484.1300,
+      "rateAttributes": [
+        "AgeBanded",
+        "39"
+      ]
+    },
+    {
+      "rate": 471.8500,
+      "rateAttributes": [
+        "AgeBanded",
+        "36"
+      ]
+    },
+    {
+      "rate": 293.4700,
+      "rateAttributes": [
+        "AgeBanded",
+        "12"
+      ]
+    },
+    {
+      "rate": 293.4700,
+      "rateAttributes": [
+        "AgeBanded",
+        "8"
+      ]
+    },
+    {
+      "rate": 360.9900,
+      "rateAttributes": [
+        "AgeBanded",
+        "19"
+      ]
+    },
+    {
+      "rate": 782.5800,
+      "rateAttributes": [
+        "AgeBanded",
+        "53"
+      ]
+    },
+    {
+      "rate": 499.4700,
+      "rateAttributes": [
+        "AgeBanded",
+        "41"
+      ]
+    },
+    {
+      "rate": 293.4700,
+      "rateAttributes": [
+        "AgeBanded",
+        "4"
+      ]
+    },
+    {
+      "rate": 477.9900,
+      "rateAttributes": [
+        "AgeBanded",
+        "38"
+      ]
+    },
+    {
+      "rate": 520.5700,
+      "rateAttributes": [
+        "AgeBanded",
+        "43"
+      ]
+    },
+    {
+      "rate": 535.9200,
+      "rateAttributes": [
+        "AgeBanded",
+        "44"
+      ]
+    },
+    {
+      "rate": 350.2500,
+      "rateAttributes": [
+        "AgeBanded",
+        "18"
+      ]
+    },
+    {
+      "rate": 383.6200,
+      "rateAttributes": [
+        "AgeBanded",
+        "21"
+      ]
+    },
+    {
+      "rate": 293.4700,
+      "rateAttributes": [
+        "AgeBanded",
+        "13"
+      ]
+    },
+    {
+      "rate": 416.9900,
+      "rateAttributes": [
+        "AgeBanded",
+        "28"
+      ]
+    },
+    {
+      "rate": 715.4500,
+      "rateAttributes": [
+        "AgeBanded",
+        "51"
+      ]
+    },
+    {
+      "rate": 293.4700,
+      "rateAttributes": [
+        "AgeBanded",
+        "0"
+      ]
+    },
+    {
+      "rate": 293.4700,
+      "rateAttributes": [
+        "AgeBanded",
+        "7"
+      ]
+    },
+    {
+      "rate": 293.4700,
+      "rateAttributes": [
+        "AgeBanded",
+        "5"
+      ]
+    },
+    {
+      "rate": 553.9500,
+      "rateAttributes": [
+        "AgeBanded",
+        "45"
+      ]
+    },
+    {
+      "rate": 1041.1400,
+      "rateAttributes": [
+        "AgeBanded",
+        "60"
+      ]
+    },
+    {
+      "rate": 1077.9700,
+      "rateAttributes": [
+        "AgeBanded",
+        "61"
+      ]
+    },
+    {
+      "rate": 508.3000,
+      "rateAttributes": [
+        "AgeBanded",
+        "42"
+      ]
+    },
+    {
+      "rate": 293.4700,
+      "rateAttributes": [
+        "AgeBanded",
+        "14"
+      ]
+    },
+    {
+      "rate": 490.2700,
+      "rateAttributes": [
+        "AgeBanded",
+        "40"
+      ]
+    },
+    {
+      "rate": 998.5600,
+      "rateAttributes": [
+        "AgeBanded",
+        "59"
+      ]
+    },
+    {
+      "rate": 293.4700,
+      "rateAttributes": [
+        "AgeBanded",
+        "6"
+      ]
+    },
+    {
+      "rate": 474.9200,
+      "rateAttributes": [
+        "AgeBanded",
+        "37"
+      ]
+    },
+    {
+      "rate": 1132.4500,
+      "rateAttributes": [
+        "AgeBanded",
+        "63"
+      ]
+    },
+    {
+      "rate": 894.9900,
+      "rateAttributes": [
+        "AgeBanded",
+        "56"
+      ]
+    },
+    {
+      "rate": 599.6000,
+      "rateAttributes": [
+        "AgeBanded",
+        "47"
+      ]
+    },
+    {
+      "rate": 1102.1400,
+      "rateAttributes": [
+        "AgeBanded",
+        "62"
+      ]
+    },
+    {
+      "rate": 459.5800,
+      "rateAttributes": [
+        "AgeBanded",
+        "33"
+      ]
+    },
+    {
+      "rate": 329.5300,
+      "rateAttributes": [
+        "AgeBanded",
+        "16"
+      ]
+    },
+    {
+      "rate": 444.6200,
+      "rateAttributes": [
+        "AgeBanded",
+        "31"
+      ]
+    },
+    {
+      "rate": 453.8200,
+      "rateAttributes": [
+        "AgeBanded",
+        "32"
+      ]
+    },
+    {
+      "rate": 685.1500,
+      "rateAttributes": [
+        "AgeBanded",
+        "50"
+      ]
+    },
+    {
+      "rate": 392.8300,
+      "rateAttributes": [
+        "AgeBanded",
+        "26"
+      ]
+    },
+    {
+      "rate": 319.5600,
+      "rateAttributes": [
+        "AgeBanded",
+        "15"
+      ]
+    },
+    {
+      "rate": 383.6200,
+      "rateAttributes": [
+        "AgeBanded",
+        "22"
+      ]
+    },
+    {
+      "rate": 435.4100,
+      "rateAttributes": [
+        "AgeBanded",
+        "30"
+      ]
+    },
+    {
+      "rate": 293.4700,
+      "rateAttributes": [
+        "AgeBanded",
+        "9"
+      ]
+    }
+  ],
+  "memberRates": {
+    "260089": 444.6200,
+    "260088": 444.6200
+  },
+  "countryCode": "US",
+  "subdivisionCode": "IL",
+  "isCustom": false,
+  "id": 8121356,
+  "quoteId": 47270,
+  "planId": 64879,
+  "carrierCompanyId": 3091,
+  "updatedDateTime": "2022-06-28T00:10:28.1763717-05:00",
+  "planTypeId": 1,
+  "rateType": "AgeBanded",
+  "isEditable": false,
+  "outOfPocketMaxInNetwork": 6900.00,
+  "coinsurancePercentageInNetwork": 0.00,
+  "primaryCareOfficeVisitCopayInNetwork": 0.00,
+  "deductibleSingleInNetwork": 6900.00,
+  "planName": "Blue PPO | B535PPO",
+  "carrierCompanyName": "ILLINOIS BCBS INS CO",
+  "networkName": "Blue PPO",
+  "startDate": "2022-01-01T06:00:00+00:00",
+  "endDate": "2022-12-31T06:00:00+00:00",
+  "quotedPlanId": 5407450,
+  "coverageGroupId": 63696,
+  "ageBandedPremium": 889.24,
+  "compositePremium": 889.24,
+  "classification": "Alternative",
+  "selectedPremiumType": "Unspecified"
+}
